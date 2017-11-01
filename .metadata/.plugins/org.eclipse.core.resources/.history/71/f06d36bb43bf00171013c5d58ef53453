@@ -1,0 +1,14 @@
+
+public class Gorilla  extends Mammal{
+	
+	public void throwSomething() {
+		System.out.println("Gorilla throw something");
+		energyLevel--;
+	}
+	public void eatBannas() {
+		
+	}
+	public void clim() {
+		
+	}
+}

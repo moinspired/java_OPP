@@ -1,0 +1,5 @@
+
+public class Mammal {
+	int energy = 100;
+	
+}
